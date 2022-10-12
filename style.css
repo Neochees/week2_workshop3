@@ -1,0 +1,128 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+div{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+#container{
+    height: 360px;
+    width: 1500px;
+    margin: 0 auto;
+    display: inline-block;
+    border-color: wh;
+}
+#left{
+    width: 140px;
+    height: 340px;
+    margin: 0px;
+    margin-bottom: -4px;
+    background-color:darkblue;
+    float: left;
+}
+#center{
+    height: 340px;
+    width: 600px;
+    margin: -4px;
+    margin-top: 0px;
+    background-color: midnightblue;
+    float: left;
+}
+#right{
+    height: 340px;
+    width: 245px;
+    margin: 0px;
+    margin-bottom: -4px;
+    background-color: bisque;
+    display: inline-block;
+}
+#spoor{
+    width: 106px;
+    height: 106px;
+    background-color: white;
+    padding: 0;
+    margin-top: 30px;
+}
+#donkerblauw{
+    width: 25px;
+    height: 25px;
+    margin: -1px;
+    border: darkblue;
+    background-color: darkblue;
+}
+#info{
+    width: 525px;
+    height: 295px;
+    margin-top: 15px;
+    margin-left: 35px;
+    background-color: white;
+    padding: 0px;
+}
+#bovenlinks{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 50px;
+    width: 250px;
+    float: left;
+    border-color: white;
+}
+#bovenrechts{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 50px;
+    width: 250px;
+    float: right;
+    border-color: white;
+}
+#bovenrechts img{
+    height: 25px;
+    width: 65px;
+}
+#midden{
+    height: 175px;
+    width: 510px;
+    margin: 0px;
+    clear: both;
+    border-color: white;
+}
+#onderboven{
+    height: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    background-color: darkblue;
+    color: white;
+    border-color: white;
+}
+#onderonder{
+    height: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    background-color: darkblue;
+    color: white;
+    border-color: white;
+}
+#klok{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 15px;
+    border-radius: 50%;
+    background-color: white;
+}
+#klok img{
+    width: 200px;
+    height: 200px;
+}
+#tekstspoor{
+    margin-left: 30px;
+}
+#b{
+    margin-left: 30px;
+}
